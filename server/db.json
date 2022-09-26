@@ -1,0 +1,86 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Manuel Asencio",
+      "age": 36,
+      "address": "Av. Nazareth 123"
+    },
+    {
+      "id": 2,
+      "name": "Pedro Rojas",
+      "age": 26,
+      "address": "Av. Nazareth 124"
+    },
+    {
+      "id": 3,
+      "name": "Juan Perez",
+      "age": 20,
+      "address": "Av. San Carlos 123"
+    },
+    {
+      "id": 4,
+      "name": "Carlos velarde",
+      "age": 16,
+      "address": "Av. Nazareth 122"
+    },
+    {
+      "id": 5,
+      "name": "Jesus Quispe",
+      "age": 10,
+      "address": "Av. Larco 122"
+    },
+    {
+      "id": 6,
+      "name": "Rosa Vasquez",
+      "age": 26,
+      "address": "Av. Shell 122"
+    },
+    {
+      "name": "nyaonesan",
+      "age": 19,
+      "address": "Av. uwu",
+      "id": 7
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Game Developer"
+    },
+    {
+      "id": 2,
+      "name": "Backend Developer"
+    },
+    {
+      "id": 3,
+      "name": "Frontend Developer"
+    },
+    {
+      "id": 4,
+      "name": "Mobile App Developer"
+    }
+  ],
+  "competences": [
+    {
+      "id": 1,
+      "student_id": 1,
+      "skill_id": 1
+    },
+    {
+      "id": 2,
+      "student_id": 2,
+      "skill_id": 3
+    },
+    {
+      "id": 3,
+      "student_id": 3,
+      "skill_id": 2
+    },
+    {
+      "id": 4,
+      "student_id": 4,
+      "skill_id": 4
+    }
+  ]
+}
